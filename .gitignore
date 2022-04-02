@@ -1,0 +1,5 @@
+# See https://www.dartlang.org/guides/libraries/private-files
+
+.idea/
+_site/
+Gemfile.lock
